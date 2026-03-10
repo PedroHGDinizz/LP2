@@ -1,7 +1,7 @@
 # LP2
 Este repositório foi criado para amarzenar os materiais, exercícios e projetos desenvolvidos durante a disciplina Linguagem de programação 2 da UERJ.
 
-##Aulas : 
+## Aulas : 
   - Módulo 1 - Introdução:
   -   https:[//www.youtube.com/playlist?list=PLf6RUGZQ7tMw2gxKdJJkWxEPIgVx4i52B]
   - Módulo 2 - Classes:
